@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "存在A",
+  "base_artist": "DeNeel",
+  "createdAt": "2026-02-18T07:51:25.756987Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "存在A",
+      "artist": "DeNeel",
+      "has_synced": false,
+      "path": "select/pl_01_存在A_DeNeel.txt"
+    }
+  ]
+}
